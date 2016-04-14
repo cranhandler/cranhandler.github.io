@@ -12,15 +12,15 @@ Hi there,
 
 Here is the playlist used for today's workshop (contents listed below):
 
-[![Playlist](/spotify-icon.png)](https://open.spotify.com/user/cranhandler/playlist/1ucbnqmVTlNqCdLZAkalkW)
+[![Playlist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/1ucbnqmVTlNqCdLZAkalkW)
 
 Here is a 2.5 hour radio show of entirely waltzable instrumental post rock: 
 
-[![Show](/generic-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
+[![Show](/img/generic-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
 
 and here is a playlist with many many waltzes in various BPMs and styles. Listen to it on random and try to find the beat and the phrase in each. 
 
-[![Plalist](/spotify-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky)
+[![Plalist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky)
 
 ## Waltz Opportunities:
 
