@@ -16,7 +16,7 @@ Here is the playlist used for today's workshop ([contents listed below](#playlis
 
 Here is a 2.5 hour radio show of entirely waltzable instrumental post rock: 
 
-[![Show](/img/generic-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
+[![Show](/img/mixcloud-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
 
 and here is a playlist with many many waltzes in various BPMs and styles. Listen to it on random and try to find the beat and the phrase in each. 
 
