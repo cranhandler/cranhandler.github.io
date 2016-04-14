@@ -4,4 +4,54 @@ title: Waltzing
 permalink: /waltzing/
 ---
 
-Stay tuned for future content...
+Hi there,
+
+**I'm glad you attended my April 16th waltz workshop hosted by Louisville Country Dancers. This email has a few links with information if you'd like to do followup research (or followup listening).**
+
+## Waltz music:
+
+Here is the playlist used for today's workshop (contents listed below):
+
+[![Playlist](/spotify-icon.png)](https://open.spotify.com/user/cranhandler/playlist/1ucbnqmVTlNqCdLZAkalkW)
+
+Here is a 2.5 hour radio show of entirely waltzable instrumental post rock: 
+
+[![Show](/generic-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
+
+and here is a playlist with many many waltzes in various BPMs and styles. Listen to it on random and try to find the beat and the phrase in each. 
+
+[![Plalist](/spotify-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky)
+
+## Waltz Opportunities:
+
+Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 3rd Saturday, with an hour lesson at 6, and dancing to the Halcyon Light Orchestra from 7-9.
+
+[monthly waltz party]: http://childgrove.org/index.php/about-dances/what-is-waltz
+
+<!--Waiting to Hear from Tom Cunningham about Louisville's next waltz party-->
+
+## Waltz Reading:
+
+Richard Powers and Nick Enge's [Waltzing: A manual for dancing and living][powers]
+
+This link lists some variations on rotary waltz: [http://www.dancingmoves.us/rotary-waltz/](http://www.dancingmoves.us/rotary-waltz/)
+
+[powers]: http://www.goodreads.com/book/show/18000167-waltzing
+
+Again, thank you for coming, and feel welcome to follow up with any questions!
+
+Allison
+
+
+Type | Title | Musician | Album | BPM | playtime
+-----|-------|----------|-------|-----|---------
+For Oslo Mixer | The Clock Stopped | KGB | Contra-intelligence | 111 | 5:03
+For Oslo Mixer | Two Rivers AB | Martha Edwards + (Kristen Graham?) | n/a | 124 | 2:25
+Clear simple | Waltz of the Morning | Percolatin' | The Coffee Zombies | 128/130 | 4:01
+Clear simple | Waltz #2 | XO | Elliot Smith | 133 | 4:40
+Clear simple | La Valze-Belette | Indiana Sunrise | The Cosmic Otters | 134 | 3:28
+Clear simple | Hardwick | Waltz Time | Larry Unger Ginny Snowe | 143 | 2:59
+Clear Simple | Waiting and Waltzing in Airport Terminals | Industries of the Blind | Chapter 1: Had We Known Better | 105 | 13:00
+Rotary | Beauty in walking away | Marie Digby | Unfold | 156 | 3:40
+Rotary | Alta Sierra Waltz | Waltz Time | Larry Unger Ginny Snowe | 165 | 2:25
+Mix Tempo | The Millionaire Waltz | Queen | A Day at the Races | 193/145 | 4:55
