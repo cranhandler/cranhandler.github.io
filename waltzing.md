@@ -10,7 +10,7 @@ Hi there,
 
 ## Waltz music:
 
-Here is the playlist used for today's workshop (contents listed below):
+Here is the playlist used for today's workshop ([contents listed below](#playlist)):
 
 [![Playlist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/1ucbnqmVTlNqCdLZAkalkW)
 
@@ -40,18 +40,21 @@ This link lists some variations on rotary waltz: [http://www.dancingmoves.us/rot
 
 Again, thank you for coming, and feel welcome to follow up with any questions!
 
-Allison
+*Allison*
 
+---
 
-Type | Title | Musician | Album | BPM | playtime
------|-------|----------|-------|-----|---------
-For Oslo Mixer | The Clock Stopped | KGB | Contra-intelligence | 111 | 5:03
-For Oslo Mixer | Two Rivers AB | Martha Edwards + (Kristen Graham?) | n/a | 124 | 2:25
+## Playlist
+
+Type | Title | Album | Musician | BPM | playtime
+:----|-------|----------|-------|:----|--------:
+For Oslo Mixer | The Clock Stopped | Contra-intelligence | KGB | 111 | 5:03
+For Oslo Mixer | Two Rivers AB | n/a | Martha Edwards + Kristen Graham | 124 | 2:25
 Clear simple | Waltz of the Morning | Percolatin' | The Coffee Zombies | 128/130 | 4:01
 Clear simple | Waltz #2 | XO | Elliot Smith | 133 | 4:40
 Clear simple | La Valze-Belette | Indiana Sunrise | The Cosmic Otters | 134 | 3:28
 Clear simple | Hardwick | Waltz Time | Larry Unger Ginny Snowe | 143 | 2:59
-Clear Simple | Waiting and Waltzing in Airport Terminals | Industries of the Blind | Chapter 1: Had We Known Better | 105 | 13:00
-Rotary | Beauty in walking away | Marie Digby | Unfold | 156 | 3:40
+Clear Simple | Waiting and Waltzing in Airport Terminals | Chapter 1: Had We Known Better | Industries of the Blind | 105 | 13:00
+Rotary | Beauty in walking away | Unfold | Marie Digby | 156 | 3:40
 Rotary | Alta Sierra Waltz | Waltz Time | Larry Unger Ginny Snowe | 165 | 2:25
-Mix Tempo | The Millionaire Waltz | Queen | A Day at the Races | 193/145 | 4:55
+Mix Tempo | The Millionaire Waltz | A Day at the Races | Queen | 193/145 | 4:55
