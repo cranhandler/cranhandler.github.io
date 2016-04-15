@@ -28,6 +28,10 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 
 [monthly waltz party]: http://childgrove.org/index.php/about-dances/what-is-waltz
 
+In Cincinnati, [waltz evenings][] are held on 5th Saturdays, with a lesson at 7 and waltzes from 8 to 10:30. 
+
+[waltz evenings]: http://www.cincinnaticontradance.org/schedule.htm 
+
 <!--Waiting to Hear from Tom Cunningham about Louisville's next waltz party-->
 
 ## Waltz Reading:
