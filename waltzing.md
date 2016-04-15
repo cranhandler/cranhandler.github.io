@@ -10,17 +10,11 @@ Hi there,
 
 ## Waltz music:
 
-Here is the playlist used for today's workshop ([contents listed below](#playlist)):
+Here is the playlist used for today's workshop ([contents listed below](#playlist)):[![Playlist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/1ucbnqmVTlNqCdLZAkalkW)
 
-[![Playlist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/1ucbnqmVTlNqCdLZAkalkW)
+Here is a 2.5 hour radio show of entirely waltzable instrumental post rock:[![Show](/img/mixcloud-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
 
-Here is a 2.5 hour radio show of entirely waltzable instrumental post rock: 
-
-[![Show](/img/mixcloud-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
-
-and here is a playlist with many many waltzes in various BPMs and styles. Listen to it on random and try to find the beat and the phrase in each. 
-
-[![Plalist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky)
+and here is a playlist with many many waltzes in various BPMs and styles. Listen to it on random and try to find the beat and the phrase in each.[![Plalist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky)
 
 ## Waltz Opportunities:
 
@@ -32,7 +26,9 @@ In Cincinnati, [waltz evenings][] are held on 5th Saturdays, with a lesson at 7 
 
 [waltz evenings]: http://www.cincinnaticontradance.org/schedule.htm 
 
-<!--Waiting to Hear from Tom Cunningham about Louisville's next waltz party-->
+Lexington Vintage Dance offers [waltz class series][]---their current 5-week course began April 11. 
+
+[waltz class series]: http://www.lexingtonvintagedance.org/vintage.shtml#class 
 
 ## Waltz Reading:
 
