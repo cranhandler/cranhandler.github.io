@@ -4,4 +4,4 @@ title: GIS
 permalink: /gis/
 ---
 
-Stay tuned for future content...
+http://digitalcommons.unl.edu/biosysengdiss/19/
