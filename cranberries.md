@@ -4,5 +4,5 @@ title: Cranberries
 permalink: /cranberries/
 ---
 
-(img/20131010_142940.jpg)
+![w1](img/20131010_142940.jpg)
 
