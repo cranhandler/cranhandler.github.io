@@ -4,4 +4,5 @@ title: Cranberries
 permalink: /cranberries/
 ---
 
-Stay tuned for future content...
+(img/20131010_142940.jpg)
+
