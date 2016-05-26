@@ -39,8 +39,6 @@ layout: default
  
  To use the stove or oven, plug in the gray cord and turn on the gas. As soon as you are done needing heat, turn off the gas and unplug the cord immediately.
  
- Talk with me before using cast iron.
- 
  Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
  
  When harvesting herbs, leave enough behind to keep growing.
