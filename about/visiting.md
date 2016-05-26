@@ -4,7 +4,7 @@ layout: default
 ---
 ##Welcome to my Home
  
- **Things you'll need to know**
+**Things you'll need to know**
  
  
  The wifi network is 
