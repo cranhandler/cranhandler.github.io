@@ -11,9 +11,7 @@ layout: default
  
  I'm sorry.
  
- and the password, like it says on the crossstitch, is 
- 
- W00lenNickel
+ for the password, check the crossstitch! 
  
  
  
@@ -52,7 +50,7 @@ layout: default
  
  Police non-emergency line: (314) 444-2500
  
- You are in district 3, and your address is 2929 Victor St. St Louis 63104
+ You are in district 3. 
  
  
  
