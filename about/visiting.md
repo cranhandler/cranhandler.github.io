@@ -55,7 +55,7 @@ layout: default
  
  **In Summary**
  
- If it looks like it's about to break, it is. I'm sorry I live in a hovel---I know it and I'm working on fixing it. 
+ If it looks like it's about to break, it is, treat it gently. I'm sorry I live in a hovel---I know it and I'm working on fixing it. 
  
  On the bright side, you will wake up to waffles.
  
