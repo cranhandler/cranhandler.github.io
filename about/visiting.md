@@ -41,7 +41,7 @@ layout: default
  
  Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
  
- When harvesting herbs, leave enough behind to keep growing.
+ When harvesting herbs, leave enough behind to keep growing. Niether the rhubarb nor the asparagus can be harvested in 2016.
  
  Recyclables can all be placed in the same cardboard box under the sink.
  
