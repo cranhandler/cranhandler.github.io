@@ -1,10 +1,8 @@
 ---
   layout: default
-
+---
   
-  ---
-  
- Welcome to my Home
+ ##Welcome to my Home
  
  **Things you'll need to know**
  
