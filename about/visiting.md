@@ -18,6 +18,8 @@ layout: default
  
  Empty the drain trap after you shower so it'll drain for the next person.
  
+ When turning on and off the bathtub faucets, handle them gently, the seals are weak.
+ 
  Please don't use the back, main-floor door. Its threshold is not load-bearing.
  
  Don't leave anything you care about unattended in the back yard, and lock the doors, even if you're only leaving for a moment.
@@ -37,6 +39,8 @@ layout: default
  
  To use the stove or oven, plug in the gray cord and turn on the gas. As soon as you are done needing heat, turn off the gas and unplug the cord immediately.
  
+ Talk with me before using cast iron.
+ 
  Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
  
  When harvesting herbs, leave enough behind to keep growing.
@@ -51,11 +55,13 @@ layout: default
  
  You are in district 3. 
  
+ The nearest grocery store is Schnuck's at Grand and Gravois, 3430 S Grand Blvd, St. Louis, MO 63118
  
- 
+ The nearest pharmacy is Walgreens at 3631 Gravois Ave, St. Louis, MO 63116
+
  **In Summary**
  
- If it looks like it's about to break, it is, treat it gently. I'm sorry I live in a hovel---I know it and I'm working on fixing it. 
+ If it looks like it's about to break, it is, treat it gently.
  
  On the bright side, you will wake up to waffles.
  
