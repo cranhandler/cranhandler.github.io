@@ -14,7 +14,7 @@ layout: default
  
  
  
- Bring your own coffee. (If I kept it in stock, it would go stale.) 
+
  
  Empty the drain trap after you shower so it'll drain for the next person.
  
@@ -32,6 +32,8 @@ layout: default
  Dishes and silverware are in the storage cabinets/drawers in the sink room.
  
  I should have everything you need out for you, but if I failed, the pantry with a solid door holds teas, bathtowels, dish towels, dishcloths, and extra-extra toilet paper.
+ 
+ Bring your own coffee. (If I kept it in stock, it would go stale.) If you prefer, there is a nice coffeeshop 1 block north and 1.5 blocks west.
  
  Spare bike helmets are in the basement, on the shelf against the north wall. Lubes and other basics are there too.
  
@@ -63,3 +65,6 @@ layout: default
  
  On the bright side, you will wake up to waffles.
  
+ I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, and [here][] are some inspirations. 
+ 
+ [here]:http://www.tenthousandvillages.com/giftregistry/view/index/id/49c4b4a5f36016e45ed601c6b34aa747/
