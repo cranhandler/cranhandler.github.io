@@ -70,4 +70,4 @@ layout: default
  I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, [here][] are some inspirations. 
  
  [here]:http://www.tenthousandvillages.com/giftregistry/view/index/id/49c4b4a5f36016e45ed601c6b34aa747/
- [this link]: https://docs.google.com/forms/d/1kxjpQpGUmOMqTnsEki7sBOZBmY6JDtBdv6h1wGfPR1Q/edit
+ [this link]: https://docs.google.com/forms/d/e/1FAIpQLSeYO4KfC5Cr-x-NKGqH17v_iW3kIbaB0KmW0yviuFAyFr7YWg/viewform
