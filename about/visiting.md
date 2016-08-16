@@ -16,9 +16,8 @@ layout: default
  
 
  
- Empty the drain trap after you shower so it'll drain for the next person.
+ The hot water supply for the shower has to be turned on before the hot water faucet will work---put your hand on the hot faucet, reach over the porcelain lip onto the supply pipe, and down about 3 inches. There is the knob. Empty the drain trap after you shower so it'll drain for the next person.
  
- When turning on and off the bathtub faucets, handle them gently, the seals are weak.
  
  Please don't use the back, main-floor door. Its threshold is not load-bearing.
  
@@ -37,9 +36,11 @@ layout: default
  
  Spare bike helmets are in the basement, on the shelf against the north wall. Lubes and other basics are there too.
  
- To do laundry, plan ahead to give your clothes time to line-dry. Turn the water sources full on when you go to start the machine, and turn the water sources full off when the cycle finishes. If the machine falls off its stand, ask for help. 
+ To do laundry, plan ahead to give your clothes time to line-dry. Turn the water sources full on when you go to start the machine, and turn the water sources full off when the cycle finishes. 
  
- To use the stove or oven, plug in the gray cord and turn on the gas. As soon as you are done needing heat, turn off the gas and unplug the cord immediately.
+ To use the oven, dial the "timer" to any number, and then set your desired temperature. Adjust down about 25°F since it's convection.
+ 
+ To use the stove, turn on the gas (red valve between stove and oven). Light the element with the lighter (drawer next to you). As soon as you are done needing heat, turn off the gas immediately (red valve will be perpendicular to pipe).
  
  Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
  
@@ -65,9 +66,10 @@ layout: default
  
  If it looks like it's about to break, it is, treat it gently.
  
- On the bright side, you will wake up to waffles.
+ On the bright side, you will wake up to souffles or waffles.
  
- I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, [here][] are some inspirations. 
+ I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, [here][] [are][] some inspirations. 
  
  [here]:http://www.tenthousandvillages.com/giftregistry/view/index/id/49c4b4a5f36016e45ed601c6b34aa747/
+ [are]: https://amzn.com/w/2KJZWT9JK8PH2 
  [this link]: https://docs.google.com/forms/d/e/1FAIpQLSeYO4KfC5Cr-x-NKGqH17v_iW3kIbaB0KmW0yviuFAyFr7YWg/viewform
