@@ -6,7 +6,7 @@ permalink: /cranberries/
 
 needs: closeup dry bed to show vine height
 
-![southDry](cranhandler.github.io/img/2015cranpic/SouthDry.jpg)
+![southDry](img/2015cranpic/SouthDry.jpg)
 A view from the shop of the south beds. The closest has already been harvested, the further ones are waiting.
 
 ![pulling](/img/2015cranpic/pulling.jpg)
