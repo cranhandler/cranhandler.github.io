@@ -8,7 +8,7 @@ layout: default
  
  The wifi network is 
  
- I'm sorry.
+ James Buchanan Eads
  
  for the password, check the crossstitch! 
  
@@ -21,7 +21,7 @@ layout: default
  
  Please don't use the back, main-floor door. Its threshold is not load-bearing.
  
- Don't leave anything you care about unattended in the back yard, and lock the doors, even if you're only leaving for a moment.
+ Don't leave anything you care about unattended in the back yard or in your car, and lock the doors, even if you're only leaving for a moment.
  
  Please don't tag my home's location on social media.
  
@@ -34,7 +34,7 @@ layout: default
  
  Bring your own coffee. (If I kept it in stock, it would go stale.) If you prefer, there is a nice coffeeshop 1 block north and 1.5 blocks west.
  
- Spare bike helmets are in the basement, on the shelf against the north wall. Lubes and other basics are there too.
+ Spare bike helmets, lubes, and tools are in the basement, on the shelf against the north wall.
  
  To do laundry, plan ahead to give your clothes time to line-dry. Turn the water sources full on when you go to start the machine, and turn the water sources full off when the cycle finishes. 
  
@@ -42,9 +42,7 @@ layout: default
  
  To use the stove, turn on the gas (red valve between stove and oven). Light the element with the lighter (drawer next to you). As soon as you are done needing heat, turn off the gas immediately (red valve will be perpendicular to pipe).
  
- Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
- 
- When harvesting herbs, leave enough behind to keep growing. Niether the rhubarb nor the asparagus can be harvested in 2016.
+ When harvesting herbs, leave enough behind to keep growing. Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
  
  Recyclables can all be placed in the same cardboard box under the sink.
  
@@ -68,8 +66,7 @@ layout: default
  
  On the bright side, you will wake up to souffles or waffles.
  
- I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, [here][] [are][] some inspirations. 
+ I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, [here][] are some inspirations. 
  
- [are]:http://www.tenthousandvillages.com/giftregistry/view/index/id/49c4b4a5f36016e45ed601c6b34aa747/
  [here]: https://amzn.com/w/2KJZWT9JK8PH2 
  [this link]: https://docs.google.com/forms/d/e/1FAIpQLSeYO4KfC5Cr-x-NKGqH17v_iW3kIbaB0KmW0yviuFAyFr7YWg/viewform
