@@ -12,17 +12,19 @@ A view from the shop of the south beds. The closest has already been harvested, 
 ![pulling](/img/2015cranpic/pulling.jpg)
 This bed has been flooded. The berries' density is similar to apples, so they strain the vines to float.
 
-![beating](/img/2015cranpic/Beating.jpg)
+![beating](/img/2015cranpic/cranBeating.JPG)
 Once flooded, beaters knock the berries off the vines. 
 
-![beaten](/img/2015cranpic/Beaten.jpg)
+![beaten](/img/2015cranpic/cranBeat.JPG)
 
-![floating](/img/2015cranpic/floating.jpg)
+![floating](/img/2015cranpic/cranRloating.JPG)
 The berries are now ready to be corralled by boom.
 
-needs: tight boom with elevator
+![tight](/img/2015cranpic/cranTightBoom.JPG)
+Once corralled, they are loaded via elevator to a wagon.
 
-needs: grass machine.
+![grass](/img/2015cranpic/cranGrassMachine.JPG)
+Fans separate cranberries from leaves and other foreign materials.
 
 ![bounce](/img/2015cranpic/bounce.png)
 When berries were packed on-farm, sorters on-farm eliminated poor quality berries. "Only the best Ben Lear berries bounce." This sorting now happens at the processing facility.
