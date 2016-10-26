@@ -17,7 +17,7 @@ Once flooded, beaters knock the berries off the vines.
 
 ![beaten](/img/2015cranpic/cranBeat.JPG)
 
-![floating](/img/2015cranpic/cranRloating.JPG)
+![floating](/img/2015cranpic/cranFloating.JPG)
 The berries are now ready to be corralled by boom.
 
 ![tight](/img/2015cranpic/cranTightBoom.JPG)
