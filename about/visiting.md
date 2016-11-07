@@ -13,17 +13,15 @@ layout: default
  for the password, check the crossstitch! 
  
  
- 
+ Please don't tag my home's location on social media.
 
  
  The hot water supply for the shower has to be turned on before the hot water faucet will work---put your hand on the hot faucet, reach over the porcelain lip onto the supply pipe, and down about 3 inches. There is the knob. Empty the drain trap after you shower so it'll drain for the next person.
  
  
- Please don't use the back, main-floor door. Its threshold is not load-bearing.
- 
  Don't leave anything you care about unattended in the back yard or in your car, and lock the doors, even if you're only leaving for a moment.
  
- Please don't tag my home's location on social media.
+
  
  
  **Things that might come in handy**
