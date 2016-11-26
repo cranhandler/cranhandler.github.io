@@ -30,7 +30,7 @@ layout: default
  
  I should have everything you need out for you, but if I failed, the pantry with a solid door holds teas, bathtowels, dish towels, dishcloths, and extra-extra toilet paper.
  
- Bring your own coffee. (If I kept it in stock, it would go stale.) If you prefer, there is a nice coffeeshop 1 block north and 1.5 blocks west.
+ Bring your own coffee. (If I kept it in stock, it would go stale.) If you prefer, there is a nice coffeeshop 1 block north and 1.5 blocks west. Its address (and its punch card) are magneted to the fridge.
  
  Spare bike helmets, lubes, and tools are in the basement, on the shelf against the north wall.
  
