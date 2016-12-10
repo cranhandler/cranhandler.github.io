@@ -64,7 +64,7 @@ layout: default
  
  On the bright side, you will wake up to souffles or waffles.
  
- I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit. For those who insist, [here][] are some inspirations. 
+ I was asked what I'd appreciate as hostess gifts, and the answer is YOUR SMILING FACES, and possibly fresh fruit.
  
  ![build](/img/eads.jpg)
  
