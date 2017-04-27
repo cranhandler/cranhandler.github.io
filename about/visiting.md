@@ -16,7 +16,7 @@ layout: default
  Please don't tag my home's location on social media.
 
  
- The hot water supply for the shower has to be turned on before the hot water faucet will work---put your hand on the hot faucet, reach over the porcelain lip onto the supply pipe, and down about 3 inches. There is the knob. Empty the drain trap after you shower so it'll drain for the next person.
+ The hot water supply for the shower has to be turned on before the hot water faucet will work---put your hand on the hot faucet, reach over the porcelain lip onto the supply pipe, and down about 3 inches. There is the knob.
  
  
  Don't leave anything you care about unattended in the back yard or in your car, and lock the doors, even if you're only leaving for a moment.
@@ -38,7 +38,7 @@ layout: default
  
  To use the oven, dial the "timer" to any number, and then set your desired temperature. Adjust down about 25°F since it's convection.
  
- To use the stove, turn on the gas (red valve between stove and oven). Light the element with the lighter (drawer next to you). As soon as you are done needing heat, turn off the gas immediately (red valve will be perpendicular to pipe).
+ To use the stove, light the element with the lighter (drawer next to you). 
  
  When harvesting herbs, leave enough behind to keep growing. Don't lick the roses in the summer months, they receive a weekly fungicide application until September.
  
