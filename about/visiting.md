@@ -53,10 +53,7 @@ layout: default
  Police non-emergency line: (314) 444-2500
  
  You are in district 3. 
- 
- The nearest grocery store is Schnuck's at Grand and Gravois, 3430 S Grand Blvd, St. Louis, MO 63118
- 
- The nearest pharmacy is Walgreens at 3631 Gravois Ave, St. Louis, MO 63116
+
 
  **In Summary**
  
