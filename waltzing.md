@@ -50,7 +50,7 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 
 
 [Richard Powers]: http://www.richardpowers.com 
-[Lexington Vingate Dance]: www.lexingtonvintagedance.org/
+[Lexington Vintage Dance]: www.lexingtonvintagedance.org/
 [Tom Roby]: http://www.math.uconn.edu/~troby/folkd.html
 [American Week]: https://www.cdss.org/programs/dance-music-song-camps/camp-week-archives/17-american
 
