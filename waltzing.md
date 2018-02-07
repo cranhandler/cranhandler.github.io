@@ -29,9 +29,9 @@ Childgrove Waltz Party Workshop; taught with Bob Green; St. Louis MO; 2015 11 22
 [Paul Sheldon]: http://www.socalfolkdance.org/master_teachers/sheldon_p.htm
 
 ## Waltz music:
-Here is a 2.5 hour radio show of entirely waltzable instrumental post rock:[![Show](/img/mixcloud-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)
+[![Show](/img/mixcloud-play-icon.png)](https://www.mixcloud.com/nowlikephotographs/nowlikephotographs-episode-465-waiting-and-waltzing-in-airport-terminals/)Here is a 2.5 hour radio show of entirely waltzable instrumental post rock
 
-and here is a playlist with many many waltzes in various BPMs and styles, for beat and phrase ID practice. [![Plalist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky)
+[![Plalist](/img/spotify-play-icon.png)](https://open.spotify.com/user/cranhandler/playlist/2KbG2MQLi2X4fSScZJjxky) and here is a playlist with many many waltzes in various BPMs and styles, for beat and phrase ID practice. 
 
 ## Waltz Opportunities:
 
