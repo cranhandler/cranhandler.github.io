@@ -41,9 +41,13 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 ## Waltz Intensives:
 
 2015 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
+
 2016 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
+
 2017 Whirled Dances; [Tom Roby][]; at Pinewoods [American Week][]
+
 2017 Waltz Secrets; [Tom Roby][]; at Pinewoods [American Week][]
+
 
 [Richard Powers]: http://www.richardpowers.com 
 [Lexington Vingate Dance]: www.lexingtonvintagedance.org/
