@@ -48,7 +48,7 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 
 2017 Waltz Secrets; [Tom Roby][]; at Pinewoods [American Week][]
 
-[2018] Seattle Waltz and Swing Weekend; [Richard Powers][] and Angela Amarillas; hosted by [NorthWestDance Network][]
+[2018] Seattle Waltz and Swing Weekend; [Richard Powers][] and Angela Amarillas; hosted by [NorthWest Dance Network][]
 
 
 [Richard Powers]: http://www.richardpowers.com 
