@@ -48,11 +48,15 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 
 2017 Waltz Secrets; [Tom Roby][]; at Pinewoods [American Week][]
 
+[2018] Seattle Waltz and Swing Weekend; [Richard Powers][] and Angela Amarillas; hosted by [NorthWestDance Network][]
+
 
 [Richard Powers]: http://www.richardpowers.com 
 [Lexington Vintage Dance]: www.lexingtonvintagedance.org/
 [Tom Roby]: http://www.math.uconn.edu/~troby/folkd.html
 [American Week]: https://www.cdss.org/programs/dance-music-song-camps/camp-week-archives/17-american
+[2018]: http://socialdance.stanford.edu/Syllabi/Seattle2018.html
+[NorthWest Dance Network]: https://www.nwdance.net
 
 
 
