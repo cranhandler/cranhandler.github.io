@@ -16,7 +16,7 @@ where: Stone Lake Lions Hall
 
 wear: smooth-soled shoes, comfortable clothes. Twirly skirts are fun but not required.
 
-music: We'll know for sure Tuesday, but we likely have the [Second Wind String Band][] providing our tunes! If not, recorded music featuring [Three Crooked Men][], the [Ripples][], and [Stringdancer][].
+music: We'll know for sure Tuesday, but we likely have the [Second Wind String Band][] providing our tunes, live! If not, recorded music featuring [Three Crooked Men][], the [Ripples][], and [Stringdancer][].
 
 cost: free. We'll have a tip jar out for the Lions.
 
