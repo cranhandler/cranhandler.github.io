@@ -4,7 +4,14 @@ title: Cranberries
 permalink: /cranberries/
 ---
 
-needs: closeup dry bed to show vine height
+![vineHeight](/img/2015cranpic/IMAG0915.jpg)
+The bed is above water level, with ditches carrying water around the perimeter and up the center. Vines grow close to the ground.
+
+![residue](/img/2015cranpic/IMAG0916.jpg)
+Spent vines from prior years form a natural mulch.
+
+![bloss](/img/2015cranpic/IMAG0919.jpg)
+Many blossoms per vine result in many berries per vine.
 
 ![southDry](/img/2015cranpic/SouthDry.jpg)
 A view from the shop of the south beds. The closest has already been harvested, the further ones are waiting.
