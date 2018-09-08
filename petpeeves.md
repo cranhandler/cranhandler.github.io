@@ -5,15 +5,10 @@ permalink: /explorationpeevefigures/
 ---
 A facebook friend made a cool post, asking what figures or figure combos are the pet peeves of choreographers or other dancers. I wanted to see how common some of these beloathéd figures were, so I tried some object-level observation with [contradb.com][]. For reference, today (August 7, 2018), contradb.com has 468 public dances. When I'm signed in (so my private dances appear), I have 492 available. 
 
-Side note: Given a choice, I'd usually rather talk about things I love than things that irk me. The idea to document this search game arose 
-+because contradb has just had some new improvements to its search function, and I haven't fully explored them, and 
-+the posters were very clear and specific, giving me lots of search cases I wouldn't have thought of on my own. 
+Side note: Given a choice, I'd usually rather talk about things I love than things that irk me. The idea to document this search game arose 1. because contradb has just had some new improvements to its search function, and I haven't fully explored them, and 
+2 the posters were very clear and specific, giving me lots of search cases I wouldn't have thought of on my own. 
 
-Two good things to bubble up from this already: 
-
-+as suggested by Nicholas, experienced dancers can choose to see some of these 'awkward transitions' as 'challenging transitions'---opportunities to think outside the box of how a weight shift or flourish might improve flow for your partner
-
-+as suggested by Dave, in the future contradb could have a "pet peeve" feature, where a user could specify a transition they don't like. That transition would then never appear in their search results. 
+Two good things to bubble up from this already: 1 as suggested by Nicholas, experienced dancers can choose to see some of these 'awkward transitions' as 'challenging transitions'---opportunities to think outside the box of how a weight shift or flourish might improve flow for your partner. And 2, as suggested by Dave, in the future contradb could have a "pet peeve" feature, where a user could specify a transition they don't like. That transition would then never appear in their search results. 
 
 Post texts will be left anonymous unless a poster wants their comment attributed; post text will be taken down upon request; this "blog post" might not remain up ad infinitum. 
 
