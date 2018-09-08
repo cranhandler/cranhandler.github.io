@@ -91,7 +91,9 @@ I don't see an obvious answer for this one right now---feedback welcome! Send an
 These are not supporsed yet, but I see how they could be.
 
 > Most (but not all) dances having 3 balance in a circle and spin annoy me
-This is literally the next thing in the queue! Dave is doing heys right now, but we're on it. 
+~This is literally the next thing in the queue! Dave is doing heys right now, but we're on it. ~
+Dave took ten minutes to make a mockup of this, and he proudly presents this screencap: 
+![14](/img/14.png)
 
 > Short swing, especially when it comes with a mad robin afterwards.
 
@@ -112,7 +114,19 @@ Well, it is this commenter's lucky day---there aren't even any dances to be blac
 This leads me to think, a possible pet peve (or at least something that I know a lot of people go out of their way to avoid) is having a short swing that end's mid-phrase. There are some dances (Orace Johnson's [Du Quoin Races][] is one of them) that are so good that in my opinion they're still worthy of being called, at least to dancers experienced enough and fresh enough to overwrite their bodies' autopilot. We can't right now search 'swing ends mid-phrase,' but I'd like to. Dances like Du Quoin Races definitely belong in the collective consciousness, but we do want to be able to filter them out, so we don't consider including them in programs for beginners, or for late late at night. 
 
 
+> When a circle turns into a star the other way.
 
+>> +1
+>>  Still infinitely preferable to circle left followed by circle right, which you occasionally find in old-fashioned dances!
+
+Circle one way to a star the other way piques a clockwise thing for me... let's see how common this is. The search is pretty 'tall,' so you'll actually get to build anticipation...
+
+
+![12](/img/12.png)
+
+Oh good! Only 3, and (per the foreshadowing by the third commenter) all of these three are tuned toward brand-new dancers. So clearly this is a figure combination that has a place, and callers should choose the right place. 
+
+![13](/img/13.png)
 
 [contradb.com]: https://contradb.com
 [Rod's Grits]: https://contradb.com/dances/542 
