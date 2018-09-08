@@ -20,6 +20,8 @@ Long lines to circle looks like it shows up in only 8 dances, and I quickly foun
 
 ![15](/img/15.png)
 
+
+
 ![02](/img/02courtesyturntocircle.png)   
  but courtesy turning directly into a circle left has 27, including at least one that I really enjoy dancing ([Rod's Grits][]) 
 
