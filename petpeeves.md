@@ -9,6 +9,9 @@ Post texts will be left anonymous unless a poster wants their comment attributed
 
 > what are you contra choreography pet peeves? This can be anything from "asdf this feels SO LOUSY" (a BIG one of mine is courtesy turn to circle L) or "huh, I kinda wish they'd done something different here (one of mine here is long lines to circle).
 
+![01](/img/01llc.png)
+![02](//img/02courtesyturntocircle.png)   
+
 Long lines to circle shows up in only 8 dances, but courtesy turning directly into a circle left has 27, including at least one that I really enjoy dancing ([Rod's Grits][]) 
 
 
