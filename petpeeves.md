@@ -1,7 +1,7 @@
 ---
 layout: page
 title: exploration of pet peeve figures
-permalink: /gis/
+permalink: /explorationpeevefigures/
 ---
 A facebook friend made a cool post, asking what figures or figure combos are the pet peeves of choreographers or other dancers. I wanted to see how common some of these beloathéd figures were, so I tried some object-level observation with [contradb.com][]. For reference, today (August 7, 2018), contradb.com has 468 public dances. When I'm signed in (so my private dances appear), I have 492 available. 
 
