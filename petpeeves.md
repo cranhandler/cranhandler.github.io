@@ -20,6 +20,7 @@ I think a question I'll be wondering throught this search project will be "are t
 
 > Right shoulder Heys into right shoulder rounds and swings
 >> +1
+
 >> Just freaking balance! Who writes this?
 
 Well, here I have to be a little embarrassed on behalf of contradb: we can search for heys, but not by who leads them and by which shoulder. Dave is working on [that][] as we speak, but I'll just do the less-refined search in case he doesn't finish til tomorrow. 
@@ -30,10 +31,15 @@ Hmm! Indeed, even looking at _all_ heys instead of just right heys, this wasn't 
 
 
 > Neighbor Courtesy turns into next neighbor balance and swing
+
 got 6 plus-ones, and the question
+
 >> Does a next neighbor dosido improve this at all? 
+
 answered
+
 >> Nope. Everyone’s flow is in the wrong direction unless you throw in a twirl
+
 and 
 >> For me, even without the balance it's still awkward. People can't help facing in the wrong direction, it's difficult to line up smoothly with the music, and oh my goodness gracious following in line behind some hotshot who wants to do all kinds of shenanigans on the courtesy turn so that they *always* make your new neighbour late, even to the point of frequently missing the swing altogether...
 
