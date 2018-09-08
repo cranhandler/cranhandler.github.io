@@ -56,6 +56,7 @@ So, to draw so much ire, these dances must exist, and they must be somewhat-freq
 
 This thread continued, and is fascinating. I plan to continue this "research" too, but you're also welcome to join! 
 
+
 [contradb.com]: https://contradb.com
 [Rod's Grits]: https://contradb.com/dances/542 
 [that]: https://github.com/contradb/contra/issues/480
