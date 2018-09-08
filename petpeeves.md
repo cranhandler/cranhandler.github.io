@@ -19,6 +19,7 @@ Long lines to circle shows up in only 8 dances, but courtesy turning directly in
 I think a question I'll be wondering throught this search project will be "are these 'pet peeve' figure combinations very different from person to person? Or are there some where we're unanimously wishing for a dance to be a little bit different? The only peeve mentioned I strongly identified with was "too much clockwise turning," which we can't search contradb for _today_, so I'm relying on the reports on the thread. 
 
 > Right shoulder Heys into right shoulder rounds and swings
+
 >> +1
 
 >> Just freaking balance! Who writes this?
@@ -31,6 +32,7 @@ Hmm! Indeed, even looking at _all_ heys instead of just right heys, this wasn't 
 
 
 > Neighbor Courtesy turns into next neighbor balance and swing
+
 
 got 6 plus-ones, and the question
 
