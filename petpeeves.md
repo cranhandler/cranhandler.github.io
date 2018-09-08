@@ -8,7 +8,7 @@ A facebook friend made a cool post, asking what figures or figure combos are the
 Side note: Given a choice, I'd usually rather talk about things I love than things that irk me. The idea to document this search game arose 1. because contradb has just had some new improvements to its search function, and I haven't fully explored them, and 
 2 the posters were very clear and specific, giving me lots of search cases I wouldn't have thought of on my own. 
 
-Two good things to bubble up from this already: 1 as suggested by Nicholas, experienced dancers can choose to see some of these 'awkward transitions' as 'challenging transitions'---opportunities to think outside the box of how a weight shift or flourish might improve flow for your partner. And 2, as suggested by Dave, in the future contradb could have a "pet peeve" feature, where a user could specify a transition they don't like. That transition would then never appear in their search results. 
+Two good things to bubble up from this already: 1 as suggested by Nicholas, experienced dancers can choose to see some of these 'awkward transitions' as 'challenging transitions'---opportunities to think outside the box of how a weight shift or flourish might improve flow for your partner. Megan called them 'poise points', which I really like as a framing. And 2, as suggested by Dave, in the future contradb could have a "pet peeve" feature, where a user could specify a transition they don't like. That transition would then never appear in their search results. 
 
 Post texts will be left anonymous unless a poster wants their comment attributed; post text will be taken down upon request; this "blog post" might not remain up ad infinitum. 
 
@@ -40,7 +40,7 @@ Hmm! Indeed, even looking at _all_ heys instead of just right heys, this wasn't 
 
 
 > Neighbor Courtesy turns into next neighbor balance and swing
-
+> Chain to face the next
 
 got 6 plus-ones, and the question
 
@@ -70,10 +70,52 @@ Nope, the same two dances.
 
 So, to draw so much ire, these dances must exist, and they must be somewhat-frequently called... but they haven't been entered into the crowd-sourced database. I'm going to call this a feature---you're only browsing dances that someone loved enough to share.
 
-This thread continued, and is fascinating. I plan to continue this "research" too, but you're also welcome to join! 
+>Too much clockwise rotation (more than 40 beats).
+>> Ditto on too much clockwise rotation in a row. Contra causes enough dizziness already.
+
+
+This is the first pet peeve that really resonates with me. As someone who keeps a kneebrace in her bag "in case my knee acts up," I notice myself grabbing my brace after a heavy clockwise dance. If my partner's willing&able, I'm not against swinging "backward" to keep things more level. 
+
+And contradb will be able to search this---but it doesn't right now. Stay tuned. 
+
+> Dances with only a short swing / circle 3/4 to swing as your only partner interaction.
+
+I don't see an obvious answer for this one right now---feedback welcome! Send an email to adminisaur @ the website we're talking about. 
+
+> Staying on one side of the set the whole time
+>>Many dances in which one role stays on the same side of the set for most of the dance annoy me.
+
+> One role does all the moves
+>> Dances that have one role doing little compared to the other role annoy me (unless I am tired or one limb is tired or sore)
+
+These are not supporsed yet, but I see how they could be.
+
+> Most (but not all) dances having 3 balance in a circle and spin annoy me
+This is literally the next thing in the queue! Dave is doing heys right now, but we're on it. 
+
+> Short swing, especially when it comes with a mad robin afterwards.
+
+Well, we've got 319 dances featuring an 8-beat swing. 
+![09](/img/09.png)
+
+Maybe this person's complaint was having a short swing with your partner? 
+![10](/img/10.png)
+
+We're down to 186. 
+
+"especially followed by a mad robin..."
+
+![11](/img/11.png)
+
+Well, it is this commenter's lucky day---there aren't even any dances to be blacklisted for following a short swing with a mad robin.
+
+This leads me to think, a possible pet peve (or at least something that I know a lot of people go out of their way to avoid) is having a short swing that end's mid-phrase. There are some dances (Orace Johnson's [Du Quoin Races][] is one of them) that are so good that in my opinion they're still worthy of being called, at least to dancers experienced enough and fresh enough to overwrite their bodies' autopilot. We can't right now search 'swing ends mid-phrase,' but I'd like to. Dances like Du Quoin Races definitely belong in the collective consciousness, but we do want to be able to filter them out, so we don't consider including them in programs for beginners, or for late late at night. 
+
+
 
 
 [contradb.com]: https://contradb.com
 [Rod's Grits]: https://contradb.com/dances/542 
 [that]: https://github.com/contradb/contra/issues/480
+[Du Quoin Races]: https://contradb.com/dances/656
 
