@@ -16,3 +16,4 @@ Here's my [conference call wall][] for training webinar access.
 [yield data cleaning]: http://familyfarmsgroup.com/three-errors-watch-yield-data/
 [experimental design]: http://familyfarmsgroup.com/gis-data/
 [conference call wall]: https://www.freeconferencecall.com/wall/ajonjak 
+
