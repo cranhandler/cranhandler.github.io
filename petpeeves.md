@@ -16,9 +16,9 @@ Post texts will be left anonymous unless a poster wants their comment attributed
 
 ![01](/img/01llc.png)
 
-Long lines to circle looks like it shows up in only 8 dances, but that's because I didn't think things through. If you have long lines forward with a rollaway with half sashay on the way back, then a circle flows easily. By adding that the long lines must go forward *and back*, we have only 5 dances.
+Long lines to circle looks like it shows up in only 8 dances, and I quickly found out that not all of them should be excluded for this. If you have long lines forward with a rollaway with half sashay on the way back, then a circle flows easily. In order to not be falsely accused, a dance's rollaway needs to be entered as an actual figure, not just a note about the long lines. 
 
-![08](/img/08.png)
+![15](/img/15.png)
 
 ![02](/img/02courtesyturntocircle.png)   
  but courtesy turning directly into a circle left has 27, including at least one that I really enjoy dancing ([Rod's Grits][]) 
