@@ -98,6 +98,10 @@ These are not supporsed yet, but I see how they could be.
 Dave took ten minutes to make a mockup of this, and he proudly presents this screencap: 
 ![14](/img/14.png)
 
+> Doing any move twice in a row (like long lines or balances)
+
+got 7 likes, and that will be available at the same time
+
 > Short swing, especially when it comes with a mad robin afterwards.
 
 Well, we've got 319 dances featuring an 8-beat swing. 
@@ -137,7 +141,7 @@ Oh good! Only 3, and (per the foreshadowing by the third commenter) all of these
 
 >> Yeah. I haven't yet found a dance in which I'm happy circling anything more than 3/4.
 
-Two ideas here---one the specific issue mentioned by the commenter, and then (from the subcomments), being able to search "this dance abuses suggested figure length. Cary Ravitz made a list of figures and their suggested timings. When editing a dance, a user/choreographer can see if a figure is being scrunched into too few beats (or stretched into too many). That looks like this:
+Two ideas here---one the specific issue mentioned by the commenter, and then (from the subcomments), being able to search "this dance abuses suggested figure length. Cary Ravitz made a [list] of figures and their suggested timings. When editing a dance, a user/choreographer can see if a figure is being scrunched into too few beats (or stretched into too many). That looks like this:
 
 ![16](/img/16.png)
 
@@ -146,7 +150,7 @@ Two ideas here---one the specific issue mentioned by the commenter, and then (fr
 Now, on to circles into right & left throughs: 
 ![17](/img/17.png)
 
-No dances here yet. But we can find out: how many dances have their 'circle 4 places' pretending to fit into 8 beats, vs how many are encoded as more (or fewer)? We have 79 dances with a circle all the way. 
+No dances here yet. But we can find out: how many dances have their 'circle 4 places' pretending to fit into 8 beats, vs how many are encoded as more (or fewer)? We have 79 dances with a circle all the way. This does sound like a good candidate for making a user preference "pet peeve," so dances that have a circle 4 places then right left through never show up in your searches.
 
 ![18](/img/18.png)
 
@@ -158,9 +162,161 @@ How about the non-8 beat circle-all-the-ways?
 
 ![20](/img/20.png)
 
+Interesting.
+
+> Down the hall and arches and diving to get back
+
+>> can you elaborate? This hadn't occurred to me as a thing not to like!
+
+>> This is also my least favorite move. As a tall person, scrunching myself up to get under the arch kills flow and momentum, and trying to make a usable arch with a short partner is also awkward. And the whole move just feels like something I was already too old for in second grade. Other ways of turning around after a down-the-hall flow a lot better and don't feel as goofy.
+
+I could search this two ways: just showing a list of dances that has a right-hand-high-left-hand-low or thread-the-needle. More usefully, though, say I want to call a cance that has a down-the-hall, but I want to avoide those two enders. I'm fine with any other. Great! We've got 52 dances to choose from. 
+
+
+![21](/img/21.png)
+
+![22](/img/22.png)
+
+> Only the active couple swinging. 
+
+> I hate waiting.
+
+>> One possible fix is to tell people they can swing with the person behind them in the other line? I’ve never actually seen this done on a large scale, but that might be interesting.
+
+>> It can be fun when I have neighbors I enjoy dancing with. But if I've been looking forward to swinging the person I asked to dance, and have to wait half the dance to do it... ugh.
+
+>>> Alternating actives, I presume, makes this BETTER, but does it make it better ENOUGH?
+
+>>>> ...I still hate waiting
+
+>>>> Alternating the Actives makes it *much* better. I've had to experience what it's like to start at the bottom of the line and do nothing but occasionally gate the Ones and simply look at my partner the rest of the time for ten minutes straight with no variation. The opposite of fun.
+
+>>>> I have no inherent dislike of "chestnuts" per se. I just feel that they should only be done when the sets are short enough that everyone gets the opportunity to get all the way up and back down the line during the dance.
+
+This is easy to search, and we see that for most of the dances where only the actives swing, the dance enterer thought that information was central enough to the dance to include it in the hook. Definitely a choice to make consciously in the right settings, not by accident or for a long hall. 
+
+![23](/img/23.png)
+
+> Dig for the oyster, dive for the clam.
+
+>> Yeah, this is a square dance figure that does not lend itself well at all to contras
+
+>>> "Let's waste 8 beats, or more likely 16 if both couples do the move!"
+
+>>>> Yep pretty much, not to mention there is no flow whatsoever to or from anything so any continuity the dance might have had is just gone. Why anyone would put this in a contra is beyond me
+
+Well, that's rare enough in contras that we don't have a figure for it. But you could still see if it is in any dance, by clicking "Figures", then "custom" from the word cloud. 
+
+![24](/img/24.png)
+
+then a good old 'find in page' (ctrl + F) will show you dances containig your 'custom' figure. ('Custom' is just 'anything we haven't added to libfigure yet. Our goal is once a figure shows up in 3 unique dances, or dances by 2 choreographers, we should support it. Right now, we just have dive listed: 
+
+![25](/img/25.png)
+
+If you didn't specifically mean the square dance move, and just wanted to avoid arches, try 
+
+![26](/img/26.png) 
+
+> Neighbor star promenade - no chance to negotiate comfortable hold and I'm constantly nervous about whether my neighbor will do something uncomfortable
+
+Well, darn. Our star promenade only encodes who's allemanding in the center right now---no mention of your neighbor / partner being scooped. We wrote revolving door later, and that helps. Looks like we'll need to go back and add information to star promenade. 
+
+![27](/img/27.png) 
+
+
+> I also hate butterfly whirls. Too many people want to do them as fast as possible and I feel unbalanced and out of control.
+
+>> I do NOT like butterfly whirls. And doing them with neighbors is just...ugh!! Getting tucked into every single neighbor’s armpit.
+
+Same story here. I know butterfly whirls are a polarizing figure---the posters here dislike them, but I really enjoy them. I enjoy a fast whirl, and I also enjoy discovering who my whirl-partner is and adapting to their momentum. I hope people don't stop calling butterfly whirls altogether. 
+
+> Star promenade/Butterfly whirl, esp with neighbor rather than partner. And please never call a dance with hip bumps
+
+>>  curious: is this about disliking the move altogether, or just not liking your odds at getting a good one b/c people don't know how to do it?
+
+>>> For me, I almost always hate it. The momentum doesn't work for me, and the weight connection is weird and I don't like the timing. It makes me groan when I find out there's one during a walk through.
+
+>>>> I am a fan, with the right partner—to me, it can feel like the best parts of a swing and an English gate in one.
+
+>>>>> The star promenade just never works well for me. I'm usually dancing (the role holding allemande grip in the center), and ideally from that position it should feel like an allemande with another person along for the ride. What actually happens is that there's no shared weight between the two of us. I think this is because it's generally too crowded. I don't mind the butterfly whirl itself; it just doesn't work as well without any momentum going into it. I guess if you're going to call star promenades, I would try to have sets with enough space lengthwise
+
+>>>>>> *takes notes to teach these better*
+
+![28](/img/28.png) 
+
+> This is probably specific to me getting motion sick, but i'm not a fan of extra long swings
+
+This can be important to remember---too many similar dances in a night can result in lopsided enjoyment. I wouldn't have known, before reading this comment, that long swings should be spread out (other than just in the context of mixing piece counts up from one dance to the next). This person could try asking for a balance with their partner when feeling nauseated? But perhaps it's better to share the responsibility a bit. 
+
+![29](/img/29.png) 
+
+
+Or maybe I really want to call a long swing, but concede: we could make it such that there is a long swing with partners, but not neighbors, making negotiation easier? There are still 160 possibilities. 
+
+![30](/img/30.png) 
+
+> Not a fan of facing stars
+
+>> Interesting! Can you elaborate?
+
+>>> I enjoy connecting with my fellow dancers and I dislike connecting with my partner/neighbor visually in conjunction with the frequent fumbling of hands with the other couple.
+
+>>>> I will say, there's only a few good ways to get into them where it doesn't feel gimmicky.
+
+![31](/img/31.png) 
+
+
+Ooh, this one's interesting. We've adopted the notaion 'meltdown swing' for the 'face to face turn for two when used as a prefix to a swing,' from 'melt down into a swing,' to avoid the confusion about terms. But, using dialects, you can call this 'gyre and swing,' 'shoulder 'round and swing,' or any terminology you prefer / the dance you're calling has asked you to use. Hopefully clearing expectations up. 
+
+> Circling around someone into swing. It always feels redundant, slow, and awkward and I often forget and go straight into the swing
+
+>> Ditto!!! The momentum is also hard for me cause the connection with a partner helps with moving in a circle for me
+
+>>> ...wait huh? Not sure I understand this?
+
+>>>> I can’t remember what the move is called. It’s like a swing but you’re just walking around each other without touching
+
+>> If you're confused by my comment, lemme try to explain it better! When I'm asked to move in a circle (whether alone, or around a partner or like, when we switch from circling right to circling left, that momentum is hard for me to sustain on my own. It almost hurts (my calves mostly) to do it alone, VERSUS when I'm sharing some kind of weight/tension with another person which helps me move with momentum. Is that better?
+
+>>>>> (they're talking about the move with the controversial name) 
+
+> Oh is it that move? I never made the connection
+
+>>>>>> A 16 beat swing can be *really* long, and this is choreographically is a way to have a more reasonable length swing when the timing into it isn't perfectly on the 1 beat (which we should just balance and swing if it were).
+
+![32](/img/32.png) 
+
+This is a charged conversation. Contradb's goal is to increase harmony in the dance community by letting each user choose their own dialect, and translating seamlessly among them. This is not the place for a debate about which is right---our goal is to let people communicate. 
+
+> Larks/gents chain from the left position (but from the right position is totally great)
+
+>> Agreed. This feels like a novelty. And it's *another* clockwise move.
+
+>>> I really like those
+
+>>>> I thought that some folks are trying to make left hand chains as ubiquitous as right hand chains - because the more we do them the better the left hand chains will feel. I've become quite adept at doing chains from either side.
+
+>>>>> are you talking about the LH chain done from a standstill, or the LH chain full stop?
+
+>>>>>>  "left-hand chain" is a better way of phrasing it than what I'd written, and I haven't enjoyed dancing them whether done from a standstill or from motion
+
+Then let's write a search with all chains for the gent, sorted by handedness: 
+
+![33](/img/33.png)
+
+And for ladies: 
+
+![34](/img/34.png)
+
+Well that's interesting! A lot of emphasis on teaching one role courtesy-turn ambidexterity, but no emphasis on teaching the other. I'm tempted to think that having dancers dance both roles for whatever dance is called will disseminate this information faster than writing choreography specifically to impart a lesson? But I guess time will tell!
 
 
 
+I have walked away from this exercise with a lot of new understandings, and I hope you have too. I have lots of new goals for contradb's search capabilities. I also sat down and puzzled out "how do I search for that?" for several dance attributes I hadn't known how to search before. 
+
+I also renewed my awareness of how different every dancer's preferences are, and how many different reasons there are to come to and enjoy time on the dance floor. There are a few specific take-aways that will influence what I call (I will swear off 'full-circle-to-right-left-through' to avoid unaligned lines). But on the whole I reaffirm that program variety is important to a good night of dancing. And perhaps program variety on more axes than I had heretofore considered.
+
+I'm grateful for my friend who asked this question, and everyone who contributed their thoughts. I welcome any and all feedback, at adminisaur @ (the database website). I encourage you to add and search dances, as well!
 
 
 [contradb.com]: https://contradb.com
@@ -168,4 +324,4 @@ How about the non-8 beat circle-all-the-ways?
 [that]: https://github.com/contradb/contra/issues/480
 [Du Quoin Races]: https://contradb.com/dances/656
 [Bee in her Bonnet]: https://contradb.com/dances/99
-
+[list]: http://www.dance.ravitz.us/chor.php#3
