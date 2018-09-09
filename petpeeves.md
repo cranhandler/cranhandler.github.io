@@ -93,6 +93,7 @@ I don't see an obvious answer for this one right now---feedback welcome! Send an
 These are not supporsed yet, but I see how they could be.
 
 > Most (but not all) dances having 3 balance in a circle and spin annoy me
+
 ~This is literally the next thing in the queue! Dave is doing heys right now, but we're on it. ~
 Dave took ten minutes to make a mockup of this, and he proudly presents this screencap: 
 ![14](/img/14.png)
