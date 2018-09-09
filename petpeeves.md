@@ -131,8 +131,41 @@ Oh good! Only 3, and (per the foreshadowing by the third commenter) all of these
 
 ![13](/img/13.png)
 
+> Circle all the way into R&LT. The R&LT always comes out diagonal and the lines get offset from each other, which is hard to immediately fix and confuses beginners.
+
+>>  I think this happens because circle 1x takes slightly more than 8 beats these days
+
+>> Yeah. I haven't yet found a dance in which I'm happy circling anything more than 3/4.
+
+Two ideas here---one the specific issue mentioned by the commenter, and then (from the subcomments), being able to search "this dance abuses suggested figure length. Cary Ravitz made a list of figures and their suggested timings. When editing a dance, a user/choreographer can see if a figure is being scrunched into too few beats (or stretched into too many). That looks like this:
+
+![16](/img/16.png)
+
+, where the red number of beats is a helpful "do you want to re-think how many beats an allemande 1/2 will take?" that still lets a user enter the dance as specified. But we should be able to show this to people searching, too! 
+
+Now, on to circles into right & left throughs: 
+![17](/img/17.png)
+
+No dances here yet. But we can find out: how many dances have their 'circle 4 places' pretending to fit into 8 beats, vs how many are encoded as more (or fewer)? We have 79 dances with a circle all the way. 
+
+![18](/img/18.png)
+
+![19](/img/19.png)
+
+More than 90% (72 of them) call the circle an 8-beat figure. Let's hope that the adjacent figures have a little more 'squish' than a right-left through. Ah, yes, the first one I grabbed ([Bee in her Bonnet]) has this circle 4 places as the progression, and an opposite direction circle with next neighbors, so big steps can be made. 
+
+How about the non-8 beat circle-all-the-ways?
+
+![20](/img/20.png)
+
+
+
+
+
+
 [contradb.com]: https://contradb.com
 [Rod's Grits]: https://contradb.com/dances/542 
 [that]: https://github.com/contradb/contra/issues/480
 [Du Quoin Races]: https://contradb.com/dances/656
+[Bee in her Bonnet]: https://contradb.com/dances/99
 
