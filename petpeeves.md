@@ -16,7 +16,7 @@ Post texts will be left anonymous unless a poster wants their comment attributed
 
 ![01](/img/01llc.png)
 
-Long lines to circle looks like it shows up in only 8 dances, and I quickly found out that not all of them should be excluded for this. If you have long lines forward with a rollaway with half sashay on the way back, then a circle flows easily. In order to not be falsely accused, a dance's rollaway needs to be entered as an actual figure, not just a note about the long lines. 
+Long lines to circle looks like it shows up in only 8 dances. After posting this find, two choreographers let me know that their dances shouldn't be included in these results: If you have long lines forward with a rollaway with half sashay on the way back, then a circle flows easily. Importantly, in order to not be falsely accused, a dance's rollaway needs to be entered as an actual figure, not just a note about the long lines. 
 
 ![15](/img/15.png)
 
