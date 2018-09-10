@@ -310,13 +310,127 @@ And for ladies:
 
 Well that's interesting! A lot of emphasis on teaching one role courtesy-turn ambidexterity, but no emphasis on teaching the other. I'm tempted to think that having dancers dance both roles for whatever dance is called will disseminate this information faster than writing choreography specifically to impart a lesson? But I guess time will tell!
 
+>A personal pet peeve I haven't seen mentioned yet is balancing a line or a ring and then just dropping hands and walking away. Take that momentum and DO something with it! (But other people seem to love this? Maybe because stomping is fun?)
 
+This one is kind of a bear to search right now, and I'm going to go through the steps so we can home in on how to make it less difficult. I'm not sure if "balance the ring and pass through" is exactly what this person meant, but I'll start with that since it's an easy search...
+
+![35](/img/35.png)
+
+Now let's add completeness. 
+
+![36](/img/36.png)
+
+I see a dance here that Bradley wrote me a variation for, when I needed a Very Easy Progression ([Airpants Variation][]. It could be that this kind of 'balance and just walk away' helps beginners learn, but leaves unused momentum for an experienced dancer. Perhaps, to Nicholas and Megans' thought earlier, this is a 'poise point,' or, if there aren't new dancers around needing your help, time for an extra twirl. 
+
+> I really dislike all ravens to the middle and take hands and balance, then back up and all larks to the middle, repeat. Feels like it has no flow and is lots of awkward standing around. 
+> I know this is the opposite of the question you asked, but I LOVE a good give and take or roll away. So fun!
+
+>> Perhaps the caller and band chose poorly in their selection of music? This can be a really great move for late evening, especially hoy weather, when you need to give dancers a little break but keep the energy up with stompiness.
+
+>>> I LOVE Ravens to the middle then Larks to the middle. LOL! Partly because it's a great opportunity to interact with other lines.
+
+>>>> I tend to dislike this almost all the time. Keeping energy up with stompiness as reply 1 said is great when it's your turn, but when it's not, watching it doesn't do much for my own energy level. How do other people feel about this? Also as was mentioned it leaves everyone disconnected, so there's no flow into whatever's next.
+
+I expanded this to include "one role in, out-or-not, balnce; other role in, out-or-not, balance" instead of what was stated, because in my opinion who goes first won't change whether or not you enjoy the figure. I am going to look at two options here, where I require balances, and where I don't: 
+
+![37](/img/37.png)
+
+> Circle left 1x to a right hand chain
+
+>> I like those with experienced dancers who give good weight
+
+>>>  I've actually liked this one. It flows great if you have good weight in the circle.
+
+>>>> Aren't diverse opinions great? :) Good to know that these aren't universally hated- I might take a couple of dances out of purgatory.
+
+>>>>>  I just don't know if I've ever seen a dance like this that was otherwise interesting--have pretty much only seen this in glossary dances. Please share!
+
+Commenters suggest one by Rick Mohr, and one by Cary Ravitz, although neither knew the tiltes. Let's see if contradb does...
+
+![38](/img/38.png)
+
+We got one outta two! Rick Mohr's [Walking on Air][]
+
+
+> Dosido 1.5 in the center to a swing. Dosido takes longer than 8 beats, so I feel like I have to skimp on the dosido or swing for fewer than 8.
+
+>> Not only that, but you're at the mercy of the other dancer with no way to help him/her out, and often wind up trapped on the wrong side of the set by a confused spinning top with no clear path to your partner (or neighbor) whom you're supposed to swing.
+
+>>On the other hand, dosido 1.5 with your neighbor to progress, or ladies dosido each other 1.5 to progress to their next neighbor work fine. But dosido 1.5 to cross the set is nearly always improved by a straight allemande.
+
+I searched this for do-si-do once and a half to _any_ swing, and then specifically for a short swing. Luckily it seems like there aren't many of the latter available.
+
+![39](/img/39.png)
+
+> My biggest pet peeve, hands down: circle left five places.
+
+>> Interesting! I really dig some dances that have this. Say more?
+
+>>> Ooh I hate the circle left 5 places too.
+
+>>>> Even when it’s timed correctly like in “Rockin Robin”?
+
+This commenter didn't come back to answer. We only have a few, and the celebrated [Rockin' Robin] is among them.
+
+![40](/img/40.png)
+
+> Many. Here's one: Swing to star.
+
+![41](/img/41.png)
+
+> Hey progressions. Love heys. Dislike how easy it for this progression to throw off the timing of connection with your next neighbor.
+
+>> These should be saved for Advanced dances
+
+>>> In theory, yes. I have not experienced that making enough of a difference.
+
+>>>> One of the roles always gets there sooner. Whoever's facing out in the last pass before the progression has farther to travel to get to their next neighbor. Or maybe it's just that they have to change their direction more (if the final pass is left-shoulder, the person coming from the center just came from a right shoulder pass, so they enter the final pass moving to their right, away from their next neighbor; the person who just looped before the final pass is moving straight or to their left entering the final pass, so they have a more direct path and get there sooner). I don't think this is something that can be effectively compensated for.
+
+>>>>>  It can be fun to come spinning out of the hay into the arms of a waiting partner!
+
+We only have six of these. I happen to have danced [Snakes][] just a week ago, and I can see both sides of this coin---with beginner dancers, helping others to even be pointed the right direction took a lot of my concentration. When we got in a minor-stretch-set of experienced dancers, though, it was extremely fun! (fun enough that I entered it in to contradb at the half!) 
+
+![42](/img/42.png)
+
+> From swing to balance across the set using the hand that was behind the back (e.g. for star thru or square thru). Would you rather cut the swing short or be late to the balance? Hope your neighbors chose the same answer!
+
+I used a cheap hack to get star-through here: right now users need to enter star through as a custom because we're still negotiating how to deal with 'handy-hand' figures. But a search for swing then square through, or swing then balance, should still return the right dances. And I see (in [Fun Dance for Linda][], which I know has a star through) that it's working. 
+
+![43](/img/43.png)
+
+> Right and left thru, circle left 3/4 and pass thru to progress. It flows awkwardly and often makes people late.
+
+We only have 3 of these:
+
+![44](/img/44.png)
+
+> Rollaways across the dance. It's usually too crowded to enjoy the weight, and feels more like when people try to get on and off the subway at the same time.
+
+Disappointing! I had thought we had along vs across. This looks like grounds for refactoring libfigure. (It would break the language for diamonds and other non-square formations, though). 
+
+> Neighbor swing as the last move before progressing - if I'm dancing as a raven, I often just get left there without being caught, and if I'm dancing as a lark, I have to pause and make sure my neighbor is in the right spot and safe before turning to my new neighbor. It also doesn't flow well in any way I've ever danced it.
+
+This is my first time searching for 'the figure right before progression,' let's see how it works...
+
+Looks successful! 23 dances have 'neighbor swing, then progression'. 
+
+![45](/img/45.png)
+
+> Balance in short wavy lines > swing. All the arms are in the wrong places.
+
+>> Wait, would this happen without a Rory O'More?
+
+>>> Yup, there are some. 30 below and Eleanor's Reel come to mind. I actually like these, as they set you up for all of the cross-hand swing variations!
+
+![46](/img/46.png)
+
+Well, I found a few, and then individual searching for 30 Below and Eleanor's Reel reveal we don't have them in contradb to search against. 
 
 I have walked away from this exercise with a lot of new understandings, and I hope you have too. I have lots of new goals for contradb's search capabilities. I also sat down and puzzled out "how do I search for that?" for several dance attributes I hadn't known how to search before. 
 
 I also renewed my awareness of how different every dancer's preferences are, and how many different reasons there are to come to and enjoy time on the dance floor. There are a few specific take-aways that will influence what I call (I will swear off 'full-circle-to-right-left-through' to avoid unaligned lines). But on the whole I reaffirm that program variety is important to a good night of dancing. And perhaps program variety on more axes than I had heretofore considered.
 
-I'm grateful for my friend who asked this question, and everyone who contributed their thoughts. I welcome any and all feedback, at adminisaur @ (the database website). I encourage you to add and search dances, as well!
+I'm grateful for my friend who asked this question, and everyone who contributed their thoughts. I've presented people's statements in their own words, and I've tried to report neutrally, hopefully minimizing all bias except to be welcoming. I appreciate any and all feedback, at adminisaur @ (the database website). I encourage you to add and validate dances, as well!
 
 
 [contradb.com]: https://contradb.com
@@ -325,3 +439,8 @@ I'm grateful for my friend who asked this question, and everyone who contributed
 [Du Quoin Races]: https://contradb.com/dances/656
 [Bee in her Bonnet]: https://contradb.com/dances/99
 [list]: http://www.dance.ravitz.us/chor.php#3
+[Airpants Variation]: https://contradb.com/dances/65
+[Walking on Air]: https://contradb.com/dances/233
+[Rockin' Robin]: https://contradb.com/dances/501
+[Snakes]: https://contradb.com/dances/692
+[Fun Dance for Linda]: https://contradb.com/dances/551 
