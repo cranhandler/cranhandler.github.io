@@ -8,6 +8,8 @@ permalink: /waltzing/
 
 ## Allison's Past Workshops
 
+[NorthWest Dance Network Waltz 2][];  teachers' assistant under Nancy Fry and Guy Caridi; Seattle WA; 2018 04 and 05
+
 Childgrove Waltz Party Workshop; St. Louis MO; 2017 08 20
 
 [Learn to Waltz][]; Louisville KY; 2016 04 16 
@@ -57,7 +59,7 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 [American Week]: https://www.cdss.org/programs/dance-music-song-camps/camp-week-archives/17-american
 [2018]: http://socialdance.stanford.edu/Syllabi/Seattle2018.html
 [NorthWest Dance Network]: https://www.nwdance.net
-
+[NorthWest Dance Network Waltz 2]: https://www.nwdance.net/series-and-workshops/series-classes/
 
 
 ---
