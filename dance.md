@@ -1,4 +1,4 @@
-![02](/img/2019barnDanceArt.pdf) 
+![poster](/img/2019barnDanceArt.png) 
 
 Come dance with friends and neighbors! A mix of fun, simple, American folk dances will be taught and called. We had a wonderful time last year and we'd love if you joined us for some fun the day after Thanksgiving. This will be the third dance in our "every-so-often" series.
 
