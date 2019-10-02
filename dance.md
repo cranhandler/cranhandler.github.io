@@ -16,4 +16,6 @@ how much: free. We'll have a tip jar for the Lions and for the Band
 
 why: it'll be fun!
 
-Here is the Sawyer County Record article for last years' dance: https://www.apg-wi.com/sawyer_county_record/free/old-fashioned-barn-dance/collection_8f15f900-f342-11e8-83af-17937e6ee98d.html
+Here is the Sawyer County Record [article][] for last years' dance: 
+
+[article]:https://www.apg-wi.com/sawyer_county_record/free/old-fashioned-barn-dance/collection_8f15f900-f342-11e8-83af-17937e6ee98d.html
