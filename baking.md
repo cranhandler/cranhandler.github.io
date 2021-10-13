@@ -13,6 +13,7 @@ While souffles aren't bread, and bread is my favorite, my neighbor made a video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0WA_DJJSUfM" frameborder="0" allowfullscreen></iframe>
 
 My recent project is working through [Fine Polish Cuisine][], a cookbook by the recent First Lady of Poland featuring seasonally informed dishes she's served at state dinners. Attached are photos of some of the autumn selections.
+
 [Fine Polish Cuisine]: https://www.polartcenter.com/Fine_Polish_Cuisine_All_the_Flavours_Of_The_Year_p/9816334.htm 
 
 ![pine](/img/FinePolishCuisine/rabbitPineNeedleCranberryRye.JPG)
