@@ -37,5 +37,5 @@ Fans separate cranberries from leaves and other foreign materials.
 When berries were packed on-farm, sorters on-farm eliminated poor quality berries. "Only the best Ben Lear berries bounce." This sorting now happens at the processing facility.
 
 
-![Pat](/img/2015cranpic/Harvest.png)
-![PatLooksLikeUncleStanley](/img/2015cranpic/Harvest2.png)
+![Pat](/img/2015cranpic/Harvest.JPG)
+![PatLooksLikeUncleStanley](/img/2015cranpic/Harvest2.JPG)
