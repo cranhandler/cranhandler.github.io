@@ -31,7 +31,7 @@ My recent project is working through [Fine Polish Cuisine][], a cookbook by the 
 ![slippJack](/img/FinePolishCuisine/HomeForagedSlipperyJack.JPG)
 ![Zurek](/img/FinePolishCuisine/SmokySourSlipperyJackZurek.JPG)
 ![HayVenison](/img/FinePolishCuisine/venisonMushroomSpiceCakePear.jpg)
-![DuckCress](/img/FinePolishCuisine/SDuckCressMarrow.jpg)
+![DuckCress](/img/FinePolishCuisine/DuckCressMarrow.jpg)
 
 
 
