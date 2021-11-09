@@ -30,6 +30,8 @@ My recent project is working through [Fine Polish Cuisine][], a cookbook by the 
 ![eelPierogi](/img/FinePolishCuisine/EelSaffronMilkCapPierogiesVeggiePuree.JPG)
 ![slippJack](/img/FinePolishCuisine/HomeForagedSlipperyJack.JPG)
 ![Zurek](/img/FinePolishCuisine/SmokySourSlipperyJackZurek.JPG)
+![HayVenison](/img/FinePolishCuisine/venisonMushroomSpiceCakePear.jpg)
+![DuckCress](/img/FinePolishCuisine/SDuckCressMarrow.jpg)
 
 
 
