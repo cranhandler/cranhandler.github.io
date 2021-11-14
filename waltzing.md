@@ -42,15 +42,20 @@ Dance with us in St. Louis at our [monthly waltz party][], the Sunday after the 
 [monthly waltz party]: http://childgrove.org/index.php/about-dances/what-is-waltz
 ## Waltz Intensives:
 
-2015 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
+2019 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
 
-2016 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
+[2018] Seattle Waltz and Swing Weekend; [Richard Powers][] and Angela Amarillas; hosted by [NorthWest Dance Network][]
 
 2017 Whirled Dances; [Tom Roby][]; at Pinewoods [American Week][]
 
 2017 Waltz Secrets; [Tom Roby][]; at Pinewoods [American Week][]
 
-[2018] Seattle Waltz and Swing Weekend; [Richard Powers][] and Angela Amarillas; hosted by [NorthWest Dance Network][]
+2016 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
+
+2015 Kentucky Waltz Weekend; [Richard Powers][] and Angela Amarillas; hosted by [Lexington Vintage Dance][]
+
+
+
 
 
 [Richard Powers]: http://www.richardpowers.com 
