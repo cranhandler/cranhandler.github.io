@@ -19,27 +19,13 @@ Send an email to firstname.lastname@gmail.com to receive an email 1 day before t
 ![petronella](/img/scatterdance.mp4)
 
 
-Our frequent bands: 
-
-[Annie and the Oakleys][]
-
-[Second Wind String Band][]
-
-The 11th Hour Hop-Ins
-
-Students of [Northwoods Strings]
-
-[Old 13 String Bandits][]
+Our frequent bands: [Annie and the Oakleys][], the [Second Wind String Band][], The 11th Hour Hop-Ins, Students of [Northwoods Strings], and the [Old 13 String Bandits][]. 
 
 
-Our frequent callers:
-
-Allison Jonjak
-
-Wade Pearson
+Our frequent caller is Allison Jonjak--Wade Pearson calls from time to time, and there are cameos from Noah Johnson and anyone else who'd like to learn. 
 
 
-A tip jar is available, no admission fee. No partner needed, all dances taught and called. 
+A tip jar is available, no admission fee. No partner needed, all dances taught and called with larks and robins role names.
 
 [Stone Lake Lion's Hall]: https://plus.codes/86QCRFW6+5J6
 [Annie and the Oakleys]: https://www.facebook.com/annieandtheoakleys
