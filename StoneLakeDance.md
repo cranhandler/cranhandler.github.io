@@ -10,7 +10,7 @@ Second Saturday
 
 Stone Lake Lion's Hall
 
-Intersection of Main & Frost Streets, Stone Lake WI 54876
+Intersection of [Main & Frost Streets][], Stone Lake WI 54876
 
 6:45 Lesson
 
@@ -30,6 +30,7 @@ Send an email to this website's url @gmail.com to receive an email 1 day before 
 {% include youtube.html id="4x9SIhDIWxE" %}
 
 [Stone Lake Lion's Hall]: https://plus.codes/86QCRFW6+5J6
+[Main & Frost Streets]: https://plus.codes/86QCRFW6+5J6
 [Annie and the Oakleys]: https://www.facebook.com/annieandtheoakleys
 [Second Wind String Band]: https://www.facebook.com/groups/308935492534996/
 [Northwoods Strings]: https://www.nwstrings.org/
