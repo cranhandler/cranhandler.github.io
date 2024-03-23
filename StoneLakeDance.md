@@ -15,16 +15,16 @@ Intersection of Main & Frost Streets, Stone Lake WI 54876
 
 Send an email to firstname.lastname@gmail.com to receive an email 1 day before the scheduled Second Saturday Dance, and 1 day before other dances. (We have waltz nights, polka nights, and country swing dance lessons on an irregular basis.) 
 
-{% include youtube.html id="4x9SIhDIWxE" %}
-https://youtu.be/4x9SIhDIWxE 
-
-Our frequent bands are [Annie and the Oakleys][], the [Second Wind String Band][], The 11th Hour Hop-Ins, Students of [Northwoods Strings], and the [Old 13 String Bandits][]. 
+Our flagship band is [Annie and the Oakleys][]. We also dance to the [Second Wind String Band][], The 11th Hour Hop-Ins, Students of [Northwoods Strings], and the [Old 13 String Bandits][]. 
 
 
 Our frequent caller is Allison Jonjak. Wade Pearson calls from time to time, and there are cameos from Noah Johnson and anyone else who'd like to learn. 
 
 
 A tip jar is available, no admission fee. No partner needed, all dances taught and called with larks and robins role names.
+
+
+{% include youtube.html id="4x9SIhDIWxE" %}
 
 [Stone Lake Lion's Hall]: https://plus.codes/86QCRFW6+5J6
 [Annie and the Oakleys]: https://www.facebook.com/annieandtheoakleys
