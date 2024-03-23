@@ -15,9 +15,8 @@ Intersection of Main & Frost Streets, Stone Lake WI 54876
 
 Send an email to firstname.lastname@gmail.com to receive an email 1 day before the scheduled Second Saturday Dance, and 1 day before other dances. (We have waltz nights, polka nights, and country swing dance lessons on an irregular basis.) 
 
-
-![petronella](/img/scatterdance.mp4)
-
+{% include youtube.html id="4x9SIhDIWxE" %}
+https://youtu.be/4x9SIhDIWxE 
 
 Our frequent bands are [Annie and the Oakleys][], the [Second Wind String Band][], The 11th Hour Hop-Ins, Students of [Northwoods Strings], and the [Old 13 String Bandits][]. 
 
