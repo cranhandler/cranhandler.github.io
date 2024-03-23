@@ -6,7 +6,7 @@ permalink: /StoneLakeDance/
 Every Second Saturday we dance! Barn dances and contra dances, at the [Stone Lake Lion's Hall][]. 
 
 
-Second Saturday
+the Second Saturday of each month
 
 Stone Lake Lion's Hall
 
