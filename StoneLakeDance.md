@@ -17,7 +17,7 @@ Intersection of [Main & Frost Streets][], Stone Lake WI 54876
 7-9 Dance
 
 
-Our flagship band is [Annie and the Oakleys][]. We also dance to the [Second Wind String Band][], The 11th Hour Hop-Ins, Students of [Northwoods Strings], and the [Old 13 String Bandits][]. 
+Our flagship band is [Annie and the Oakleys][]. We also dance to the [Second Wind String Band][], The 11th Hour Hop-Ins, Students of [Northwoods Strings], and the [Old 13 String Bandits][]. Sometimes we host pickup bands, here is the [set list][]. 
 
 
 Our frequent caller is Allison Jonjak. Wade Pearson calls from time to time, and there are cameos from Noah Johnson and anyone else who'd like to learn. 
@@ -35,3 +35,4 @@ Send an email to this website's url @gmail.com to receive an email 1 day before 
 [Second Wind String Band]: https://www.facebook.com/groups/308935492534996/
 [Northwoods Strings]: https://www.nwstrings.org/
 [Old 13 String Bandits]: https://www.facebook.com/Old.13.String.Bandits
+[set list]: http://allisonjonjak.com/img/PickupBandSetlist.pdf
